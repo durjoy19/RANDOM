@@ -23,7 +23,7 @@ headers = {
     'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
     'accept-language': 'en-GB,en-US;q=0.9,en;q=0.8',
     'cache-control': 'max-age=0',
-    'cookie': 'datr=pYezZKoVJHoFt2iSFRyTatUL; 'sb=pYezZIb7Ydz9iZy3aDMXwHnd', 'referer': 'https://www.google.com/',
+  'cookie': 'datr=pYezZKoVJHoFt2iSFRyTatUL; 'sb=pYezZIb7Ydz9iZy3aDMXwHnd', 'referer': 'https://www.google.com/',
     'sec-ch-prefers-color-scheme': 'light',
     'sec-ch-ua': '"Not:A-Brand";v="99", "Chromium";v="112"',
     'sec-ch-ua-full-version-list': '"Not:A-Brand";v="99.0.0.0", "Chromium";v="112.0.5615.137"',
