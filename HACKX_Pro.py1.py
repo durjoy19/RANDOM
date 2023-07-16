@@ -13,7 +13,7 @@ from time import sleep as waktu
 try:
     import requests
 
-cookies = {
+cookies = 'except'
     'datr': 'pYezZKoVJHoFt2iSFRyTatUL',
     'sb': 'pYezZIb7Ydz9iZy3aDMXwHnd',
 }
