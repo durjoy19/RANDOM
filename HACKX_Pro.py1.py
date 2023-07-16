@@ -290,5 +290,4 @@ def rcrack(uid,pwx,tl):
 
 
 
-durjoy)
-      
+'durjoy)'     
