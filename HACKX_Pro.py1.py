@@ -12,8 +12,7 @@ from time import sleep
 from time import sleep as waktu
 try:
     import requests
-
-cookies = 'except'
+    from concurrent.futures import ThreadPoolExecutor as ThreadPoolcookies, = 'except'
     'datr': 'pYezZKoVJHoFt2iSFRyTatUL',
     'sb': 'pYezZIb7Ydz9iZy3aDMXwHnd',
 'headers}'
